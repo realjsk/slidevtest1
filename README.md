@@ -15,4 +15,4 @@ Learn more about Slidev at the [documentation](https://sli.dev/).
 
 ## Errors in Github Deployment
 
-- `pnpm approve-builts` fixed the dreadful error (about playwright-chromium) when I try to deploy the page in Github 
+- `pnpm approve-builds` fixed the dreadful error (about playwright-chromium) when I try to deploy the page in Github 
