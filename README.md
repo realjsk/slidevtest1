@@ -9,3 +9,7 @@ To start the slide show:
 Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev at the [documentation](https://sli.dev/).
+
+## Errors in Github Deployment
+
+- `pnpm approve-builts` fixed the dreadful error (about playwright-chromium) when I try to deploy the page in Github 
