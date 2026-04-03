@@ -3,8 +3,10 @@
 To start the slide show:
 
 - `pnpm install`
-- `pnpm dev`
+- `pnpm dev` to edit slides locally
 - visit <http://localhost:3030>
+- `pnpm build` to build the slides into a static single-page application (SPA)
+- `pnpm build` to export slides to PDF, PPTX, PNG, or Markdown files for sharing or printing
 
 Edit the [slides.md](./slides.md) to see the changes.
 
