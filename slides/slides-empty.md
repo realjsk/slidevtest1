@@ -32,7 +32,7 @@ timer: countdown
 
 [Slidev](https://sli.dev) is a highly powerful and flexible web-based slides maker and presenter driven by Markdown content. 
 <br>
-Try it!
+Try it! 
 
 <!-- 
 Presentation slides for developers 
