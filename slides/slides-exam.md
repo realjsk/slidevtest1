@@ -28,7 +28,7 @@ duration: 30min
 timer: countdown
 ---
 
-# ELG3155 Exam 2 <br> ELG3555 Examen 2
+# Exam Instructions <br> Instructions d'examen
 
 <!-- 
 Presentation slides for developers 
@@ -90,3 +90,23 @@ layoutClass: gap-4
 - Ne quittez jamais votre place sans autorisation
 
 - Je ne répondrai pas aux questions déjà répondues dans les feuilles d'examen
+
+---
+layout: two-cols
+layoutClass: gap-4
+---
+
+# Time is up
+
+- The TAs will pass around to collect the questionnaire AND the bubble sheet
+- Then, they will count them
+- During this time, the exam is still in session, and so the same exam rules concerning the student behavior still apply until students are explicitly allowed to leave
+
+
+::right::
+
+# Le temps est écoulé
+
+- Les TAs feront le tour de la salle pour récupérer le questionnaire ET la feuille à bulles (bubble sheet) 
+- Ensuite, ils les compteront
+- Pendant ce temps, l'examen est toujours en cours ; les règles concernant le comportement des étudiants restent donc applicables jusqu'à ce qu'ils soient explicitement autorisés à quitter
