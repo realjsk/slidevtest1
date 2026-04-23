@@ -98,6 +98,7 @@ layoutClass: gap-4
 
 # Time is up
 
+- Please put down your pens and pencils
 - The TAs will pass around to collect the questionnaire AND the bubble sheet
 - Then, they will count them
 - During this time, the exam is still in session, and so the same exam rules concerning the student behavior still apply until students are explicitly allowed to leave
@@ -107,6 +108,7 @@ layoutClass: gap-4
 
 # Le temps est écoulé
 
+- Veuillez poser vos stylos et crayons
 - Les TAs feront le tour de la salle pour récupérer le questionnaire ET la feuille à bulles (bubble sheet) 
-- Ensuite, ils les compteront
+- Ensuite, ils/elles les compteront
 - Pendant ce temps, l'examen est toujours en cours ; les règles concernant le comportement des étudiants restent donc applicables jusqu'à ce qu'ils soient explicitement autorisés à quitter
