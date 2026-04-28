@@ -1,1 +1,1 @@
-slides/slides-exam.md
+slides/slides-empty.md
